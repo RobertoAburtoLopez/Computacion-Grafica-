@@ -1,4 +1,4 @@
-# 🎓 Computación Gáfica e interacción humano computadora
+# 🎓 Computación Gráfica e interacción humano computadora
 
 > Prácticas de laboratorio de **Computación Gáfica e interacción humano computadora**.  
 > Facultad de Ingeniería - UNAM  | Semestre 2026-1  
