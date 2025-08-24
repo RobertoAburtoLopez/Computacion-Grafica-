@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Carátula
+## 📌 Datos
 
 - **Alumno:** Roberto Aburto López   
 - **Materia:** Computación Gáfica e Interacción Humano Computadora 
