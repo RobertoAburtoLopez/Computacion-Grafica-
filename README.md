@@ -7,7 +7,7 @@
 
 ## 📌 Datos
 
-- **Facultad de Ingeniería - UNAM **  
+- **Facultad de Ingeniería - UNAM**  
 - **Alumno:** Roberto Aburto López   
 - **Materia:** Computación Gáfica e Interacción Humano Computadora 
 - **Profesor:** José Roque Roman Guadarrama
